@@ -13,6 +13,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Discovery, pharmacology and preclinical](lists/discovery-preclinical.md) | 24 | 15 |
 | [Analytical, bioanalytical and formulation development](lists/development.md) | 37 | 19 |
 | [PhD-level analytical and bioanalytical scientists](lists/phd-analytical-bioanalytical.md) | 7 | 5 |
+| [Protein engineering and analytical (LC-MS), RA to Scientist I](lists/protein-engineering-analytical.md) | 17 | 13 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
